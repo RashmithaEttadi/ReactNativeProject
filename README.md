@@ -34,7 +34,7 @@ Scan the QR code:
          Android: Open the Expo Go app → Use the QR scanner → Scan QR code shown in output
          iOS: Use the built-in Camera app to scan the QR code shown in output. Tap the link that appears to open in Expo Go.
 
-✅ Your app runs instantly on your device via Expo Go!
+✅ App runs instantly on your device via Expo Go!
 
 Run app on virtual devices
 OPTION 1: Android Emulator (via Android Studio)
@@ -48,7 +48,6 @@ OPTION 1: Android Emulator (via Android Studio)
             Verify that the emulator works:
                   Start the emulator from Android Studio’s Device Manager.
             Start your Expo project:
-
                ```bash
                npx expo start
                ```
@@ -61,7 +60,6 @@ OPTION 2: iOS Simulator (macOS only)
          Install Xcode from the App Store.
          Open Xcode → Preferences → Components → Download a Simulator (if needed).
          In terminal:
-
          ```bash
                npx expo start
          ```
